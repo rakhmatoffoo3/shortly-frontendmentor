@@ -1,0 +1,24 @@
+.link-history {
+  margin: 2rem auto;
+  max-width: 1200px;
+}
+
+.link-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.shortened-url {
+  color: hsl(180, 66%, 49%);
+}
+
+.copy-button {
+  background: hsl(180, 66%, 49%);
+  border-radius: 4px;
+  padding: 0.5rem 1.5rem;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
